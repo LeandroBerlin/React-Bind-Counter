@@ -1,3 +1,13 @@
+## React Bind Counter
+An exercise with React handling events and binding functions
+
+Check the live example of the final app https://leodvg.github.io/React-Bind-Counter/
+
+
+
+===============================
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
